@@ -1,0 +1,24 @@
+{
+  "name": "TeamTrees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicopus69/TeamTrees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicopus69/TeamTrees/issues"
+  },
+  "homepage": "https://github.com/Nicopus69/TeamTrees#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node.js": "0.0.0"
+  }
+}
